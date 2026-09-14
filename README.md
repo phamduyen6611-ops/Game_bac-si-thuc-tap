@@ -2,6 +2,9 @@
 
 Game web 3D mobile tĩnh.
 
+## Chơi thử
+Bản này được tối ưu cho điện thoại và có joystick cảm ứng, camera xoay, 2 tầng bệnh viện, bệnh nhân, y tá và các khoa.
+
 ## GitHub Pages
 Repo đã có workflow ở `.github/workflows/pages.yml`.
 Sau khi push lên GitHub, nếu Pages chưa chạy:
